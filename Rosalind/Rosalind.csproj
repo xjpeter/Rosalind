@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="%28GC%29 Computing GC Content.cs" />
     <Compile Include="%28HAMM%29 Counting Point Mutations.cs" />
+    <Compile Include="%28PROT%29 Translating RNA into Protein.cs" />
     <Compile Include="%28REVC%29 Complementing a Strand of DNA.cs" />
     <Compile Include="%28DNA%29 Counting DNA Nucleotides.cs" />
     <Compile Include="%28SUBS%29 Finding a Motif in DNA.cs" />
